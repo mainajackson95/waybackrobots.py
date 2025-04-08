@@ -6,6 +6,8 @@ My personalised tool that scraps the wayback machine and takes the snapshots for
 
 git clone https://github.com/mainajackson95/waybackrobots.py.git
 
+rename folder from waybackrobots.py to waybackrobots
+
 pip install requests
 
 ## usage
